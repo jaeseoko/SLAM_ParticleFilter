@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/mapLoader.cpp
+mapLoader.h
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/mapLoader.h
+
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/mapLoader.h
+iostream
+-
+fstream
+-
+string
+-
+

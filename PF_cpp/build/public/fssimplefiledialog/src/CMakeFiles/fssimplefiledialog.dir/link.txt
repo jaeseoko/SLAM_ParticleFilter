@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libfssimplefiledialog.a  CMakeFiles/fssimplefiledialog.dir/macosx/fssimplefiledialog_mac_cpp.cpp.o CMakeFiles/fssimplefiledialog.dir/macosx/fssimplefiledialog_mac_objc.m.o CMakeFiles/fssimplefiledialog.dir/fssimplefiledialog.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libfssimplefiledialog.a

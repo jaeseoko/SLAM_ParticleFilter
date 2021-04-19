@@ -1,0 +1,15 @@
+In your git directory folder.
+
+BUILDING. 
+
+mkdir build
+cd build
+cmake ../code/
+cmake --build . --config Release --target main
+
+RUNNING.
+
+Run the executable with arguments: {numParticles} {robotlogdata path}
+
+(e.g) In MacOS:
+    ./main.app/Contents/MacOS/main 50 ../data/log/robotdata1.log

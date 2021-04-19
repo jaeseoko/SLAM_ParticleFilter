@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libysbitmapfont.a  CMakeFiles/ysbitmapfont.dir/ysglusefontbitmap.c.o CMakeFiles/ysbitmapfont.dir/ysglfontdata.c.o CMakeFiles/ysbitmapfont.dir/ysglfontbitmaputil.c.o CMakeFiles/ysbitmapfont.dir/ysglmaketextbitmap.c.o CMakeFiles/ysbitmapfont.dir/ysglsldrawfontbitmap.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libysbitmapfont.a

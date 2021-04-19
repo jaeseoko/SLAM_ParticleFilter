@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libyssystemfont.a  CMakeFiles/yssystemfont.dir/macosx/ysmacosxsystemfont.cpp.o CMakeFiles/yssystemfont.dir/macosx/ysmacosxsystemfont_objc.m.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libyssystemfont.a

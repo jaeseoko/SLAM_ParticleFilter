@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libretromap_kernelutil.a  CMakeFiles/retromap_kernelutil.dir/retromap_screenshotcache.cpp.o CMakeFiles/retromap_kernelutil.dir/retromap_pngexport.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libretromap_kernelutil.a

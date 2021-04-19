@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libcheapgui.a  CMakeFiles/cheapgui.dir/gui.cpp.o CMakeFiles/cheapgui.dir/gui_gl2.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libcheapgui.a

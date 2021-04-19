@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libysglcpp_nownd.a  CMakeFiles/ysglcpp_nownd.dir/ysglbuffermanager_nownd.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libysglcpp_nownd.a

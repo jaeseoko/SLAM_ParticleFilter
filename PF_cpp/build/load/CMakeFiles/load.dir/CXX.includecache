@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/load_log.cpp
+load_log.h
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/load_log.h
+
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/load_log.h
+load_map.h
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/load_map.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/load_map.cpp
+load_map.h
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/load_map.h
+iostream
+-
+
+/Users/jaeseoko/Desktop/COURSES/SS21/16833_LocMap/Project/16833-project/code/load/load_map.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

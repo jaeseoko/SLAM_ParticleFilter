@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libyssimplesound_macosx.a  CMakeFiles/yssimplesound_macosx.dir/yssimplesound_macosx_cpp.cpp.o CMakeFiles/yssimplesound_macosx.dir/yssimplesound_macosx_objc.m.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libyssimplesound_macosx.a

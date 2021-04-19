@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libfsguifiledialog.a  CMakeFiles/fsguifiledialog.dir/fsguifiledialog_mac_cpp.cpp.o CMakeFiles/fsguifiledialog.dir/fsguifiledialog_mac_objc.m.o CMakeFiles/fsguifiledialog.dir/fsguifiledialog.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libfsguifiledialog.a
