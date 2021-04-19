@@ -6,10 +6,15 @@
 arguments:
 
 ('--path_to_map', default='../data/map/wean.dat')
+
 ('--path_to_log', default='../data/log/robotdata1.log')
+
 ('--output', default='results')
+
 ('--num_particles', default=500, type=int)
+
 ('--visualize', action='store_true')
+
 ('--belief', action='store_true')
 
 Robotdata gives odometry of the robot and laser measurements in 180 degree field of view.
