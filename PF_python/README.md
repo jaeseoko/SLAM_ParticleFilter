@@ -21,7 +21,7 @@ Robotdata gives odometry of the robot and laser measurements in 180 degree field
 
 ex) for running robot log 1, 500 particles
 
-'python3 main.py --visualize'
+"python3 main.py --visualize"
 
 Particle filter localization on 500 particles.
 
