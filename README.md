@@ -2,6 +2,16 @@
 
 ## By Jae seok Oh
 
+## Particle Filter process
+
+Robot Ground truth is unknown. We have odometry and landmark measurement data (laser measurements).
+
+- Initialize random particles on the map in a free space (where occupancy probability is zero) for fast convergence.
+- Propagate particles forward based on motion model and odometry data.
+- Ray cast for each particle and calculate weights by comparing the laser measurements(actual for ground truth) and ray cast measurements (actual for particle).
+- Resample particles based on the estimated weights.
+- Repeat the process.
+
 ### Run Instructions: In PF_python , PF_cpp
 
 Particle filter localization on 500 particles.
